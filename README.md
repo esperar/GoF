@@ -1,1 +1,1 @@
-### GoF Desing-Pattern
+### GoF Design-Pattern
